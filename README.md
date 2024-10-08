@@ -71,7 +71,7 @@ Python Version: 3.8 or higher
 pip (Python package installer)
 Step 1: Clone the Repository
 bash
-git clone https://github.com/yourusername/youtubethumbnailgenerator.git
+git clone https://github.com/gelantu/youtubethumbnailgenerator.git
 cd youtubethumbnailgenerator
 
 Step 2: Set Up a Virtual Environment (Optional but Recommended)
