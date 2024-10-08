@@ -1,0 +1,5 @@
+Flask==2.1.0
+Pillow==9.0.0
+requests==2.26.0
+stability-sdk==0.3.1
+python-dotenv==0.19.2
