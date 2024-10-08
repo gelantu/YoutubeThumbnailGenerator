@@ -30,7 +30,7 @@ The YouTube Thumbnail Generator is a web application that allows content creator
 
 1. Clone the repository:
    ```bash
-   git clonehttps://github.com/yourusername/youtubethumbnailgenerator.git
+   git clone https://github.com/gelantu/YoutubeThumbnailGenerator.git
    python3 -m venv venv
   Create a virtual environment (optional but recommended):
   bash
@@ -40,6 +40,8 @@ The YouTube Thumbnail Generator is a web application that allows content creator
   Install the required dependencies:
   bash
   pip install -r requirements.txt
+
+  Create a folder called "templates" and pull index.html in that file. 
 
 ## Usage
 
